@@ -7,7 +7,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Index Page</title>
       </Head>
-      <main>
+      <main >
         <h1>ここはトップページです</h1>
       </main>
     </div>
